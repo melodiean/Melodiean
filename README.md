@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Melody Nsita, an Freelance Web Developer.
+I am Melody Nsita, a Freelance Web Developer.
 
 - 🔭 I love builing projects with CSS and Javascript.
 - 🌱 I’m currently learning React and Next frameworks.
